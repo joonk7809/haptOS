@@ -26,7 +26,7 @@ This project solves these challenges with a novel two-phase learning architectur
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 
@@ -99,7 +99,7 @@ python tests/test_combined_system.py
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ### Two-Phase Learning Pipeline
 
@@ -151,7 +151,7 @@ Features ──> [NN_v0 + NN_v1] ──> Final Cues (89.1% better!)
 
 ---
 
-## 🧠 Neural Network Architecture
+## Neural Network Architecture
 
 ![Network Architecture](docs/diagrams/network_architecture.png)
 
@@ -328,7 +328,7 @@ Convergence:  0.93 → 0.48 MAE (no overfitting)
 
 ---
 
-## 🎓 Research Contributions
+## Research Contributions
 
 ### Novel Techniques
 
@@ -573,11 +573,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Star History
 
-If you find this project useful, please consider giving it a star! ⭐
+If you find this project useful, please consider giving it a star!
 
 ---
 
-**Built with ❤️ for realistic haptic experiences**
+**Built with heart for realistic haptic experiences**
 
 *Last updated: November 2025*
 ```
