@@ -584,7 +584,7 @@ If you find this project useful, please consider giving it a star!
 
 ---
 
-Now create `requirements.txt`:
+`requirements.txt`:
 
 ```txt
 # Core dependencies
